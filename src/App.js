@@ -10,13 +10,13 @@ import Router from './router';
 export default class App extends Component {
     componentWillMount() {
         firebase.initializeApp({
-            apiKey: "AIzaSyDEKaG0nxBxRofujlEGWi07gVVQer6P3yI",
-            authDomain: "faketwitter-e48b4.firebaseapp.com",
-            databaseURL: "https://faketwitter-e48b4.firebaseio.com",
-            projectId: "faketwitter-e48b4",
+            apiKey: "xxx",
+            authDomain: "yyyy",
+            databaseURL: "zzz",
+            projectId: "xxx",
             storageBucket: "",
-            messagingSenderId: "814298250597",
-            appId: "1:814298250597:web:c0840a99201dfd3e"
+            messagingSenderId: "xxxx",
+            appId: "ssss"
         });
     }
 
